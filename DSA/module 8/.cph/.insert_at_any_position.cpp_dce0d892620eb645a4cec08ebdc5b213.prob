@@ -1,1 +1,0 @@
-{"name":"Local: insert_at_any_position","url":"d:\\PHITRON\\DSA\\module 8\\insert_at_any_position.cpp","tests":[{"id":1767725649464,"input":"10 20 30 40 50 -1","output":"10 20 60 30 40 50\n50 40 30 60 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PHITRON\\DSA\\module 8\\insert_at_any_position.cpp","group":"local","local":true}

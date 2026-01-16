@@ -1,1 +1,0 @@
-{"name":"Local: remove","url":"d:\\PHITRON\\module_9\\remove.c","tests":[{"id":1760890115946,"input":"5\n10 20 30 40 50\n1","output":"10 30 40 50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PHITRON\\module_9\\remove.c","group":"local","local":true}

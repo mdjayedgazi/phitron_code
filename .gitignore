@@ -1,0 +1,18 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# CP Helper / Phitron
+.cph/
+
+# Test & temp
+*.prob
+
+# OS
+.DS_Store
+Thumbs.db

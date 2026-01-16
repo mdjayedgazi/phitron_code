@@ -1,1 +1,0 @@
-{"name":"Local: reversing_dubli_list","url":"d:\\PHITRON\\DSA\\module 9\\reversing_dubli_list.cpp","tests":[{"id":1768248275979,"input":"10 20 30 40 50 60 70 -1","output":"40 30 20 10 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PHITRON\\DSA\\module 9\\reversing_dubli_list.cpp","group":"local","local":true}

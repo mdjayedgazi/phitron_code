@@ -1,1 +1,0 @@
-{"name":"Local: list_sort","url":"d:\\PHITRON\\DSA\\module 6\\list_sort.cpp","tests":[{"id":1766677895391,"input":"20 10 30 50 40 60 80 100 90 70 -1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PHITRON\\DSA\\module 6\\list_sort.cpp","group":"local","local":true}

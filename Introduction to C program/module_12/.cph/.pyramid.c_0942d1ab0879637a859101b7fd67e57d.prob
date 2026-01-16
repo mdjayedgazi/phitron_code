@@ -1,1 +1,0 @@
-{"name":"Local: pyramid","url":"d:\\PHITRON\\module_12\\pyramid.c","tests":[{"id":1762023097806,"input":"5","output":"    *\n   ***\n  *****\n *******\n*********"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PHITRON\\module_12\\pyramid.c","group":"local","local":true}
