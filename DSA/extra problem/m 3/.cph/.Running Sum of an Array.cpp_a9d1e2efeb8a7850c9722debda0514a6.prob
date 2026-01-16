@@ -1,0 +1,1 @@
+{"name":"Local: Running Sum of an Array","url":"d:\\PHITRON\\DSA\\extra problem\\m 3\\Running Sum of an Array.cpp","tests":[{"id":1766237816897,"input":"7\n-7 1 5 2 -4 3 0","output":"1 3 6 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PHITRON\\DSA\\extra problem\\m 3\\Running Sum of an Array.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Chocolate Chocolate","url":"d:\\PHITRON\\MOCK 1\\Chocolate Chocolate.cpp","tests":[{"id":1765466838518,"input":"3\n45 \n48\n50","output":"13\n13\n14"},{"id":1765467011644,"input":"1\n45","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PHITRON\\MOCK 1\\Chocolate Chocolate.cpp","group":"local","local":true}

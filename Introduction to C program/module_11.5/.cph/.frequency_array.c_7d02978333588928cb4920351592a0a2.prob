@@ -1,0 +1,1 @@
+{"name":"Local: frequency_array","url":"d:\\PHITRON\\module_11.5\\frequency_array.c","tests":[{"id":1761210894002,"input":"10\n1 2 0 2 0 3 1 2 5 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PHITRON\\module_11.5\\frequency_array.c","group":"local","local":true}

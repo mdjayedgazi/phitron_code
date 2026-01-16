@@ -1,0 +1,1 @@
+{"name":"Local: stringCompare","url":"d:\\PHITRON\\module_11\\stringCompare.c","tests":[{"id":1761198414968,"input":"abc ab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PHITRON\\module_11\\stringCompare.c","group":"local","local":true}

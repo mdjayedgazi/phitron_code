@@ -1,0 +1,1 @@
+{"name":"Local: Search Query","url":"d:\\PHITRON\\DSA\\extra problem\\m 3\\Search Query.cpp","tests":[{"id":1766239855684,"input":"5\n6 3 2 1 8\n4\n\n1\n5\n2\n9\n","output":"YES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PHITRON\\DSA\\extra problem\\m 3\\Search Query.cpp","group":"local","local":true}

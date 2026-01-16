@@ -1,0 +1,1 @@
+{"name":"Local: strCopy","url":"d:\\PHITRON\\module_11\\strCopy.c","tests":[{"id":1761201419879,"input":"happy jayed","output":"happyjayed"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PHITRON\\module_11\\strCopy.c","group":"local","local":true}

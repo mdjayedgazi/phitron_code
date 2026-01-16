@@ -1,0 +1,1 @@
+{"name":"Local: stack_in_list","url":"d:\\PHITRON\\DSA\\module_11\\stack_in_list.cpp","tests":[{"id":1768565163370,"input":"10 20 30 40 50","output":"50 40 30 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PHITRON\\DSA\\module_11\\stack_in_list.cpp","group":"local","local":true}

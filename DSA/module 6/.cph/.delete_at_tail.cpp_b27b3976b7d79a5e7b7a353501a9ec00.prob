@@ -1,0 +1,1 @@
+{"name":"Local: delete_at_tail","url":"d:\\PHITRON\\DSA\\module 6\\delete_at_tail.cpp","tests":[{"id":1766673285195,"input":"10 20 30 40 50 60 70 -1","output":"10 20 30 40 50 60 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PHITRON\\DSA\\module 6\\delete_at_tail.cpp","group":"local","local":true}

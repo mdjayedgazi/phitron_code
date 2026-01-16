@@ -1,0 +1,1 @@
+{"name":"Local: specific_row_column","url":"d:\\PHITRON\\module_18\\specific_row_column.c","tests":[{"id":1762876176153,"input":"3 3\n1 0 0\n0 2 0\n0 0 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PHITRON\\module_18\\specific_row_column.c","group":"local","local":true}
